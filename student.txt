@@ -1,0 +1,13 @@
+{
+  "stuID": 11,
+  "firstName": "Sami",
+  "lastName": "Tekle",
+  "Age": 36,
+  "Sex": "M",
+  "Phone": 67845678890,
+  "Email": "sami@gmail.com",
+  "Country": "USA",
+  "State": "Ga",
+  "City": "Gunnet",
+  "Zip": 30341
+ }
